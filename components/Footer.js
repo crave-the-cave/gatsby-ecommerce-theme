@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <img src="/ctclogo.png" alt="crave the cave logo" className={styles.logo} />
+        crave the cave 2022
       </footer>
     </>
   )

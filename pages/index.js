@@ -8,13 +8,11 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+        background-image: url('/banner.jpg');
       </Head>
 
       <main>
         <Header title="crave the cave" />
-        <p className="description">
-          "At crave the cave we are always on a crave to find a great cave!"
-        </p>
       </main>
 
       <Footer />
