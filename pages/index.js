@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="crave the cave" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          "At crave the cave we are always on a crave to find a great cave!"
         </p>
       </main>
 
