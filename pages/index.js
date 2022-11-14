@@ -14,8 +14,6 @@ export default function Home() {
       <main>
         <Header title="crave the cave" />
       </main>
-
-      <Footer />
     </div>
   )
 }
