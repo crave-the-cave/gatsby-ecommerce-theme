@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
-        background-image: url('/banner.jpg');
+        background-image: url('/Banner.jpg');
       </Head>
 
       <main>
