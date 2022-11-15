@@ -3,4 +3,3 @@
   publish = "public"
 
 [[plugins]]
-  package = "netlify-plugin-cypress"
