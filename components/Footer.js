@@ -4,7 +4,8 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        crave the cave 2022
+        <h1>crave the cave</h1>
+        <p>2022</p>
       </footer>
     </>
   )

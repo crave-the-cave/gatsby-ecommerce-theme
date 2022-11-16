@@ -4,7 +4,6 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  background-image: url('../public/Banner.jpg');
 }
 
 * {
@@ -18,10 +17,13 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-image: url('../public/Banner.jpg');
+  background-attachment: fixed;
+  height: 1080px;
 }
 
 code {
-  background: #fafafa;
+  background: #c8b2d0;
   border-radius: 5px;
   padding: 0.75rem;
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
@@ -33,4 +35,8 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.logoo {
+  background-color: transparent;
 }
