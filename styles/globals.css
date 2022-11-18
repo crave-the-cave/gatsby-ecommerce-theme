@@ -19,7 +19,11 @@ main {
   align-items: center;
   background-image: url('../public/Banner.jpg');
   background-attachment: fixed;
-  height: 1080px;
+  background-position: right;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 
 code {
@@ -39,4 +43,5 @@ code {
 
 .logoo {
   background-color: transparent;
+  max-width: 60vw;
 }

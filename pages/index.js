@@ -11,7 +11,7 @@ export default function Home() {
          <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <img src="/logo.svg" alt="crave the cave logo" height="400px" classname="logoo"/>
+        <img src="/logo.svg" alt="crave the cave logo" height="400px" className="logoo"/>
       </main>
     </div>
   )
