@@ -13,7 +13,6 @@ export default function Home() {
       </Head>
       <main>
         <img src="/logo.svg" alt="crave the cave logo" height="400px" className="logoo"/>
-        checkshopcheckshopcheckshop
       </main>
     </div>
   )
